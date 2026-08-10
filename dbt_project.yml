@@ -35,4 +35,4 @@ models:
     stg:
       +materialized: view
     marts:
-      +materialized: table
+      +materialized: tableddd
